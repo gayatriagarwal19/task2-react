@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/task2-react/static/css/main.84930bf9.css",
+    "main.js": "/task2-react/static/js/main.0c63520e.js",
+    "static/media/cloudy.png": "/task2-react/static/media/cloudy.a6d0b7d87d2022baaf47.png",
+    "index.html": "/task2-react/index.html",
+    "main.84930bf9.css.map": "/task2-react/static/css/main.84930bf9.css.map",
+    "main.0c63520e.js.map": "/task2-react/static/js/main.0c63520e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84930bf9.css",
+    "static/js/main.0c63520e.js"
+  ]
+}
